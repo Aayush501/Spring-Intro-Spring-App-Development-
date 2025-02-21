@@ -1,4 +1,4 @@
-package com.apicalls.apicalls.controllers;
+package com.apicalls.apicalls.uc1helloworld;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
