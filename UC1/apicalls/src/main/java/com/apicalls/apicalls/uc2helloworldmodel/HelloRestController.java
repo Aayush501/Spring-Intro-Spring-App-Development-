@@ -1,12 +1,13 @@
-package com.apicalls.apicalls.uc1helloworld;
+package com.apicalls.apicalls.uc2helloworldmodel;
 
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class HelloRestController {
-    @GetMapping("/")
-    public String sayHello(){
+    @GetMapping("/hii")
+    public String sayHello(Model model){
         return "Hello From BridgeLabz!!!";
     }
 }
