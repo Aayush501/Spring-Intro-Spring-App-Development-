@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edf0e4de-84d8-4065-bf2c-cb12762b64d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/apicalls/src/main/java/com/apicalls/apicalls/uc2helloworldmodel/HelloRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apicalls/src/main/resources/templates/Hello.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apicalls/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apicalls/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apicalls/src/main/java/com/apicalls/apicalls/ApiCallsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/apicalls/src/main/java/com/apicalls/apicalls/ApiCallsApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apicalls/src/main/java/com/apicalls/apicalls/uc1helloworld/HelloRestController.java" beforeDir="false" />
-    </list>
+    <list default="true" id="edf0e4de-84d8-4065-bf2c-cb12762b64d7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +31,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "configurable.group.appearance"
